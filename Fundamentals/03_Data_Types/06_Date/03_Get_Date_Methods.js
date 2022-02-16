@@ -1,0 +1,4 @@
+//////////////////////////////////////////////////////////
+// JavaScript Get Date Methods
+
+// https://www.w3schools.com/js/js_date_methods.asp
